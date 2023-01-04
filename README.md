@@ -2,7 +2,7 @@
 This is a short minigame dungeon crawler, where the player is a dinosour and has to beat different minigames to reach the final room that is filled with gold. The game was built within the [Unity](https://unity.com/) over the course of two months. 
 
 ## Motivation
-This game was the final project for my intro to game programming course. I wanted to push my skills to the limitsd with this project and see what I was capable of producing for this project
+This game was the final project for my intro to game programming course. I wanted to push my skills to the limitsd with this project and see what I was capable of producing for this project.
  
 ## Screenshots
 <p float="left">
