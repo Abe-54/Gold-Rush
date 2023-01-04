@@ -8,8 +8,7 @@ This game was the final project for my intro to game programming course.
 <p float="left">
   <img src="https://user-images.githubusercontent.com/93175657/210475520-70e018e7-d17d-4d31-bcf8-08189a79e382.png" width="600" />
   <img src="https://user-images.githubusercontent.com/93175657/210475667-c2138c54-0499-4d3d-af21-e17d23aa583f.png" width="600" /> 
-  <img src="https://user-images.githubusercontent.com/93175657/210475768-4023e272-a51d-4acc-b099-24358dcebf3d.png
-" width="600" />
+  <img src="https://user-images.githubusercontent.com/93175657/210475768-4023e272-a51d-4acc-b099-24358dcebf3d.png" width="600" />
 </p>
 
 #What did I learn from making it?
