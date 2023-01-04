@@ -1,4 +1,4 @@
-## Gold-Rush
+## Gold Rush
 This is a short minigame dungeon crawler, where the player is a dinosour and has to beat different minigames to reach the final room that is filled with gold. The game was built within the [Unity](https://unity.com/) over the course of two months. 
 
 ## Motivation
