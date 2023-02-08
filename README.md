@@ -11,7 +11,7 @@ This game was the final project for my intro to game programming course. I wante
   <img src="https://user-images.githubusercontent.com/93175657/210475768-4023e272-a51d-4acc-b099-24358dcebf3d.png" width="600" />
 </p>
 
-#What did I learn from making it?
+##What did I learn from making it?
 - How to use the Lighting System within Unity for 2D Games
 - How to use the Tile Sets within Unity
 - How to use Coroutines to create short cutscenes
