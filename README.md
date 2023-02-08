@@ -19,7 +19,7 @@ This game was the final project for my intro to game programming course. I wante
 - How to incorporate feedback when redesigning levels
 
 ## Where To Play?
-The game can be played at https://abe-54.itch.io/gem-hunter
+The game can be played at https://abe-54.itch.io/gold-rush
 
 ## Credits
 - Abraham Rubio (Game Programmer & Game Designer)
